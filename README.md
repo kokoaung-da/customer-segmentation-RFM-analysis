@@ -1,4 +1,4 @@
-# RFM-Analysis
+# Customer Segmentation - RFM Analysis
 
 **RFM Analysis** is a marketing technique used to categorize customers based on their **purchasing behavior**. It helps businesses understand which customers are the most valuable so they can create more effective marketing strategies.
 
